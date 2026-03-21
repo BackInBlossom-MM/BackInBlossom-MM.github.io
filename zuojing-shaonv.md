@@ -71,5 +71,7 @@
 > 最是人间留不住，朱颜辞镜花辞树。
 
 ---
-
-[ < 返回主目录 ](dissertation.md)
+<br>
+<div align="center">
+  <a href="/">🔙 返回老阿姨更年期手记首页</a>
+</div>
